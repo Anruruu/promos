@@ -1,2 +1,0 @@
-# promos
-landing promo pages
